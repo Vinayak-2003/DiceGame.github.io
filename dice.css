@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background-color:#144272;
+}
+
+h1{
+    font-family: 'Mochiy Pop One', sans-serif;
+    color: #E1D7C6;
+    font-size: 5rem;
+}
+
+p{
+    font-family: 'Saira', sans-serif;
+    color: #E6DDC4;
+    font-size: 2rem;
+}
+
+.dice{
+    margin: 50px;
+    display:inline-block;
+}
